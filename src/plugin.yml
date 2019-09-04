@@ -1,0 +1,12 @@
+# Author
+author: Aca_ aka Vojtěch Mareš
+website: https://vojtamares.com
+
+# Plugin head
+name: HalloweenMobHats
+main: com.vojtamares.minecraft.plugin.halloweenMobHats.HalloweenMobHats
+description: Halloween "easter-egg" plugin, where some hostile mobs spawn with Pumpkins on their heads
+
+# Plugin customs
+version: 1.0.0
+api-version: 1.14

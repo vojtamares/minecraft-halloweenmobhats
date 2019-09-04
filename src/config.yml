@@ -1,0 +1,26 @@
+##
+# HalloweenMobHats - Small simple plugins to allow mobs to spawn with carved pumpkins or jack'o lanterns on their heads
+##
+
+# Allow spawning with carved pumpkins
+carved_pumpkin: true
+
+# Allow spawning with Jack'o Lanterns (does not emit light tho)
+jack_o_lantern: true
+
+# Chance that mob will drop the head - in percents (e.g. 17.63 = 17.63%), integers only
+dropChance: 0.0
+
+# Chance that mob will spawn with a hat - in percents (e.g. 17.63 = 17.63%), integers only
+spawnChance: 50
+
+# If mob is wearing a helmet and is set to 'true', helmet will be replaced
+ignoreMobHelmet: false
+
+# You can disable an ability of certain mobs to spawn with pumpkins on their heads
+mobs:
+  zombie: true
+  husk: true
+  skeleton: true
+  stray: true
+  wither_skeleton: true
