@@ -8,10 +8,10 @@ carved_pumpkin: true
 # Allow spawning with Jack'o Lanterns (does not emit light tho)
 jack_o_lantern: true
 
-# Chance that mob will drop the head - in percents (e.g. 17.63 = 17.63%), integers only
+# Chance that mob will drop the head - in percents (e.g. 17.63 = 17.63%)
 dropChance: 0.0
 
-# Chance that mob will spawn with a hat - in percents (e.g. 17.63 = 17.63%), integers only
+# Chance that mob will spawn with a hat - in percents (e.g. 17.63 = 17.63%)
 spawnChance: 50
 
 # If mob is wearing a helmet and is set to 'true', helmet will be replaced
